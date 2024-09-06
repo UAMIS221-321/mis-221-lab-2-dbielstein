@@ -1,0 +1,15 @@
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\bin\Debug\net8.0\mis-221-lab-2-dbielstein.exe
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\bin\Debug\net8.0\mis-221-lab-2-dbielstein.deps.json
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\bin\Debug\net8.0\mis-221-lab-2-dbielstein.runtimeconfig.json
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\bin\Debug\net8.0\mis-221-lab-2-dbielstein.dll
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\bin\Debug\net8.0\mis-221-lab-2-dbielstein.pdb
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.AssemblyInfoInputs.cache
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.AssemblyInfo.cs
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.csproj.CoreCompileInputs.cache
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.sourcelink.json
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.dll
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\refint\mis-221-lab-2-dbielstein.dll
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.pdb
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\mis-221-lab-2-dbielstein.genruntimeconfig.cache
+C:\Users\12057\Desktop\Repos\other\lab-demo\mis-221-lab-2-dbielstein\obj\Debug\net8.0\ref\mis-221-lab-2-dbielstein.dll
